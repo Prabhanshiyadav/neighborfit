@@ -29,8 +29,8 @@ with st.sidebar:
 
         ---
         ### 📚 Resources
-        - [🧠 Streamlit Docs](https://docs.streamlit.io/)
-        - [📦 Project Source on GitHub](https://github.com/your-repo-link)
+        - [🧠 Streamlit Docs](https://neighborfit-aj8rygoreaj8pmxn4yudsi.streamlit.app/)
+        - [📦 Project Source on GitHub](https://github.com/Prabhanshiyadav/neighborfit)
         """
     )
 
