@@ -4,7 +4,7 @@
 
 ---
 ## 🌍 Live App
-👉 [Launch NeighborFit](https://neighborfit-prabhanshiyadav.streamlit.app)
+👉 [Launch NeighborFit](https://neighborfit-aj8rygoreaj8pmxn4yudsi.streamlit.app/)
 ---
 
 ## 💡 What is NeighborFit?
