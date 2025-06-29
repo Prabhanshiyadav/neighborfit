@@ -1,5 +1,8 @@
 import streamlit as st
 from backend.main import run_backend
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 st.set_page_config(page_title="NeighborFit", page_icon="🏘️", layout="centered")
 
