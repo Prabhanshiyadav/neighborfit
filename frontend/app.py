@@ -5,8 +5,8 @@ st.set_page_config(page_title="NeighborFit", page_icon="🏘️", layout="center
 
 # Sidebar Info
 with st.sidebar:
-    st.image("frontend/assets/logo.png", width=220)
-    st.title("📘 About NeighborFit")
+    st.image("frontend/assets/image1.png", width=240)
+    st.title("📘 NeighborFit")
     st.markdown(
         """
         **NeighborFit** is a smart neighborhood matching assistant that helps users discover communities aligned with their unique lifestyle needs.
@@ -27,9 +27,6 @@ with st.sidebar:
         ---
         ### 📚 Resources
         - [🧠 Streamlit Docs](https://docs.streamlit.io/)
-        - [📊 Dataset Example (Kaggle)](https://www.kaggle.com/datasets)
-        - [💻 Python Web App Guide](https://realpython.com/python-web-applications/)
-        - [🌍 Neighborhood Insights Tool (Walk Score)](https://www.walkscore.com/)
         - [📦 Project Source on GitHub](https://github.com/your-repo-link)
         """
     )
